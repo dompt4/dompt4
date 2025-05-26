@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software enginerr, Full stack developer
 ---------------------------------------
 
-Currently working as a Software Engineer, responsible for both front-end and back-end web development, website maintenance, and ensuring modern functionality. I integrate domains via cloud services. I am constantly striving to improve my skills. Whenever I am assigned a task, I give it my best effort. I am also a strong team player and always willing to collaborate.
+Currently working as a Software Engineer, Full stack developer. responsible for both front-end and back-end web development, website maintenance, and ensuring modern functionality. I integrate domains via cloud services. I am constantly striving to improve my skills. Whenever I am assigned a task, I give it my best effort. I am also a strong team player and always willing to collaborate.
 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [Portfolio](http://www.canva.com/design/DAGohQxkQf8/TFE5jGfI0ESrpq6gsBPC6Q/edit?utm_content=DAGohQxkQf8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
